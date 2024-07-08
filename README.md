@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venkata Sai Kuniganti</h1>
 <h3 align="center">Grad student @ University of Alabama at Birmingham , Ex- Systems Engineer @TCS</h3>
 
-- 📄 Know about my experiences [www.linkedin.com/in/venkatasai-kuniganti](www.linkedin.com/in/venkatasai-kuniganti)
+- 📄 Know about my experiences [https://www.linkedin.com/in/venkatasai-kuniganti/](https://www.linkedin.com/in/venkatasai-kuniganti/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
