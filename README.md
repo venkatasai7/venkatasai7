@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkata Sai Kuniganti</h1>
-<h3 align="center">Grad student @ University of Alabama at Birmingham , Ex- Systems Engineer @TCS</h3>
+<h3 align="center">Grad student @ University of Alabama at Birmingham </h3>
 
 
 
