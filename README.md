@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Venkata Sai</h1>
-<h3 align="center">Grad student @ University of Alabama at Birmingham </h3>
 
 
 
