@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Venkata Sai Kuniganti</h1>
 
 <h3 align="center">Software Engineer | Backend Developer | AWS Cloud Developer</h3>
-
-<p align="center">
-Building scalable cloud-native applications, serverless architectures, and AI-powered solutions using Python, Java, AWS, SQL, and modern web technologies.
-</p>
-
 ---
 
 ### 🚀 About Me
