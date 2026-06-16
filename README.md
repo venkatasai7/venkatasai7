@@ -10,7 +10,6 @@
 * 🤖 Experienced in AI/ML, Generative AI, LangChain, and LLM-powered applications.
 * 🌱 Exploring advanced cloud architecture, microservices, and scalable system design.
 
----
 
 ### 🛠️ Tech Stack
 
