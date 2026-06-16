@@ -14,10 +14,8 @@ Experienced in Python, Java, AWS, SQL, and Full-Stack Development with a strong 
 * 💻 Software Engineer with experience in backend development, cloud computing, and database engineering.
 * ☁️ Building serverless applications using AWS Lambda, API Gateway, DynamoDB, S3, and CloudFormation.
 * 🐍 Strong expertise in Python, Java, SQL, and REST API development.
-* 🤖 Interested in AI/ML, Generative AI, LLM applications, and intelligent automation.
+* 🤖 Experienced in AI/ML, Generative AI, LLM applications, and intelligent automation.
 * 🌱 Currently exploring advanced cloud architecture, distributed systems, and scalable microservices.
-* 📫 Reach me at: **[vkuniganti@gmail.com](mailto:vkuniganti@gmail.com)**
-* 💼 LinkedIn: **linkedin.com/in/venkatasaikuniganti**
 
 ---
 
@@ -85,14 +83,3 @@ Experienced in Python, Java, AWS, SQL, and Full-Stack Development with a strong 
 * Swagger
 * Linux/Unix
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" alt="GitHub Streak" />
-</p>
