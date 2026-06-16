@@ -3,83 +3,43 @@
 <h3 align="center">Software Engineer | Backend Developer | AWS Cloud Developer</h3>
 
 <p align="center">
-Passionate about building scalable cloud-native applications, backend systems, and AI-powered solutions.
-Experienced in Python, Java, AWS, SQL, and Full-Stack Development with a strong focus on system design, automation, and cloud technologies.
+Building scalable cloud-native applications, serverless architectures, and AI-powered solutions using Python, Java, AWS, SQL, and modern web technologies.
 </p>
 
 ---
 
 ### 🚀 About Me
 
-* 💻 Software Engineer with experience in backend development, cloud computing, and database engineering.
-* ☁️ Building serverless applications using AWS Lambda, API Gateway, DynamoDB, S3, and CloudFormation.
-* 🐍 Strong expertise in Python, Java, SQL, and REST API development.
-* 🤖 Experienced in AI/ML, Generative AI, LLM applications, and intelligent automation.
-* 🌱 Currently exploring advanced cloud architecture, distributed systems, and scalable microservices.
+* 💻 Backend & Cloud Engineer with experience in enterprise applications and distributed systems.
+* ☁️ Skilled in AWS, Serverless Architecture, REST APIs, Databases, and Cloud Automation.
+* 🤖 Experienced in AI/ML, Generative AI, LangChain, and LLM-powered applications.
+* 🌱 Exploring advanced cloud architecture, microservices, and scalable system design.
 
 ---
 
-### 🛠️ Languages & Technologies
+### 🛠️ Tech Stack
 
-#### Programming Languages
+**Languages:** Python • Java • C++ • C# • JavaScript • SQL
 
-* Python
-* Java
-* C++
-* C
-* C#
-* JavaScript
-* SQL
+**Backend:** FastAPI • Flask • Django • Spring Boot • REST APIs • LangChain
 
-#### Backend & Frameworks
+**Cloud & DevOps:** AWS • Lambda • API Gateway • DynamoDB • S3 • CloudFormation • Docker • Jenkins
 
-* FastAPI
-* Flask
-* Django
-* Spring Boot
-* REST APIs
-* LangChain
+**Databases:** PostgreSQL • MySQL • Oracle • MongoDB • SQL Server
 
-#### Cloud & DevOps
+**Frontend:** React.js • HTML5 • CSS3 • JavaScript
 
-* AWS Lambda
-* API Gateway
-* DynamoDB
-* S3
-* CloudFormation
-* Docker
-* Git
-* Jenkins
+**AI/ML:** TensorFlow • Scikit-Learn • Pandas • NumPy • OpenCV
 
-#### Databases
+**Tools:** Git • Postman • VS Code • IntelliJ • Swagger • Linux
 
-* PostgreSQL
-* MySQL
-* Oracle
-* MongoDB
-* SQL Server
 
-#### Frontend
+### 🛠️ Tech Stack
 
-* React.js
-* HTML5
-* CSS3
-* JavaScript
-
-#### AI / Data Science
-
-* TensorFlow
-* Scikit-Learn
-* Pandas
-* NumPy
-* OpenCV
-
-#### Tools
-
-* Git
-* Postman
-* VS Code
-* IntelliJ IDEA
-* Swagger
-* Linux/Unix
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
