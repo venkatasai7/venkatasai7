@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venkata Sai Kuniganti</h1>
 
 <h3 align="center">Software Engineer | Backend Developer | AWS Cloud Developer</h3>
----
+
 
 ### 🚀 About Me
 
