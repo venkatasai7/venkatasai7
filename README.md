@@ -13,7 +13,7 @@
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python • Java • C++ • C# • JavaScript • SQL
+**Languages:** Python • Java • C++ • JavaScript • SQL
 
 **Backend:** FastAPI • Flask • Django • Spring Boot • REST APIs • LangChain
 
